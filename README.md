@@ -15,7 +15,7 @@ If the applicant is likely to repay the loan, then not approving the loan result
 
 If the applicant is not likely to repay the loan, i.e. he/she is likely to default, then approving the loan may lead to a financial loss for the company.
 
-# IV - Conclusion
+# II - Conclusion
 After analysis:
 
 - Pensioners show a decrease in the percentage of payment difficulties, while working individuals show an increase in this percentage compared to both payment and non-payment difficulties.
